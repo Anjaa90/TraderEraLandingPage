@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from validthemes.net/site-template/anaton/index-op-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 10:04:49 GMT -->
+
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
@@ -93,8 +94,8 @@
         <!-- Start Navigation -->
         <nav class="navbar mobile-sidenav navbar-sticky navbar-default validnavs navbar-fixed white no-background">
 
-            <div class="container d-flex justify-content-between align-items-center">            
-                
+            <div class="container d-flex justify-content-between align-items-center">
+
 
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
@@ -115,10 +116,10 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-times"></i>
                     </button>
-                    
+
                     <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
                         <li>
-                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" >Home</a>
+                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Home</a>
                             <!-- <ul class="dropdown-menu">
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Multipage</a>
@@ -190,7 +191,7 @@
                 </div>
                 <!-- Main Nav -->
 
-            </div>   
+            </div>
         </nav>
         <!-- End Navigation -->
     </header>
@@ -198,7 +199,8 @@
 
     <!-- Start Banner Area 
     ============================================= -->
-    <div class="banner-style-two-area text-light overflow-hidden" style="background-image: url(assets/img/shape/6.png);">
+    <div class="banner-style-two-area text-light overflow-hidden"
+        style="background-image: url(assets/img/shape/6.png);">
 
         <div class="banner-shape-right-top">
             <img src="assets/img/shape/9.png" alt="Image Not Found">
@@ -210,12 +212,34 @@
                 <div class="content">
                     <div class="row">
                         <div class="col-xl-5">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">Manage your business by <strong>Anaton</strong></h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">Power Is In Your
+                                Hands As You Dive In The Exciting World Of Trading In<strong>(Country Name).</strong>
+                            </h2>
                         </div>
                         <div class="col-xl-6 offset-xl-1">
-                            <p class="wow fadeInUp"  data-wow-delay="900ms" data-wow-duration="400ms">
-                                Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily perfectly to the minister.
+                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
+                                TradersEra is dedicated to improving your trading experience right in India(Country
+                                Name). Easy access to worldwide markets, individual service that feels like a business
+                                buddy, and a platform customized to your specific needs.
                             </p>
+
+                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
+                                It's more than simply trading; it's about starting a journey toward financial
+                                independence, and we're here to help you every step of the way.
+                            </p>
+                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
+                                TradersEra enables users in various locales to explore financial markets comfortably.
+                                Our dedication to accessibility and support guarantees that traders in every city, from
+                                New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
+                                success and wealth in the unpredictable world of trading.
+
+                            </p>
+                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
+                                Join TradersEra now and see why we're the preferred option for traders looking for the
+                                best trading experience.
+                            </p>
+
+
                         </div>
                         <div class="col-lg-12">
                             <div class="thumb">
@@ -261,9 +285,372 @@
     </div>
     <!-- End Banner -->
 
+
+
+    <!-- Start Choose Us 
+    ============================================= -->
+    <div class="choose-us-area default-padding overflow-hidden">
+        <div class="container">
+            <div class="row align-center">
+                <div class="col-lg-6 choose-us-style-one">
+                    <div class="choose-us-thumb">
+                        <img class="wow fadeInDown" src="assets/img/illustration/il-1.png" alt="illustration">
+                        <img class="wow fadeInRight" data-wow-delay="300ms" src="assets/img/illustration/d8.png"
+                            alt="illustration">
+                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d7.png"
+                            alt="illustration">
+                        <img class="wow fadeInLeft" data-wow-delay="300ms" src="assets/img/illustration/d4.png"
+                            alt="illustration">
+                        <img class="wow fadeInLeft" data-wow-delay="900ms" src="assets/img/illustration/d5.png"
+                            alt="illustration">
+                        <img class="wow fadeInUp" data-wow-delay="300ms" src="assets/img/illustration/d9.png"
+                            alt="illustration">
+                        <img class="wow fadeInDown" data-wow-delay="1200ms" src="assets/img/illustration/d2.png"
+                            alt="illustration">
+                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d11.png"
+                            alt="illustration">
+                    </div>
+                </div>
+                <div class="col-lg-5 offset-lg-1 choose-us-style-one">
+                    <h2 class="title">Trading With Different Options Is Not That Difficult</h2>
+                    <h5><b>Forex Trading Features</b></h5>
+                    <ul class="list-double mt-50 mt-xs-30 mt-md-30">
+                        <li>
+                            <div class="content">
+                                <h4>Global Market Access</h4>
+                                <p>
+                                    Trade in the world's largest financial market with access to currency pairs from
+                                    major economies worldwide.
+
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="content">
+                                <h4>High Liquidity</h4>
+                                <p>
+                                    Enjoy high liquidity, allowing for swift execution of trades and minimal price
+                                    slippage.
+
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="content">
+                                <h4>Diverse Asset Options</h4>
+                                <p>
+                                    Access currencies and other assets like gold, oil, and indices for diversified
+                                    trading strategies.
+
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Choose Us -->
+
+
+    <!-- Start Feature 
+    ============================================= -->
+    <!-- Start Services 
+    ============================================= -->
+    <div id="services" class="services-style-three-area default-padding bottom-less">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <!-- <h4 class="sub-heading">My Expertise</h4> -->
+                        <h2 class="heading">Binary Trading Options Features</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <!-- Signle Item -->
+                <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="service-style-three">
+                        <div class="icon figma">
+                            <img src="assets/img/icon/figma.png" alt="Image Not Found">
+                        </div>
+                        <div class="info">
+                            <h4><a href="#">Simplicity</a></h4>
+                            <p>
+                                Benefit from straightforward trading mechanics with binary options, where traders
+                                predict whether an asset's price will rise or fall within a specified timeframe.
+
+                            </p>
+                            <br>
+                            <!-- <a href="#">Get this service <i class="fas fa-arrow-right"></i></a> -->
+                            <!-- <span>01</span> -->
+                        </div>
+                    </div>
+                </div>
+                <!-- End Signle Item -->
+                <!-- Signle Item -->
+                <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="service-style-three">
+                        <div class="icon wordpress">
+                            <img src="assets/img/icon/wordpress.png" alt="Image Not Found">
+                        </div>
+                        <div class="info">
+                            <h4><a href="#">Fixed Returns</a></h4>
+                            <p>
+                                Know your potential profits and losses upfront, with fixed returns on successful trades
+                                regardless of market volatility.
+
+                            </p>
+                            <br><br>
+                            <!-- <a href="#">Get this service <i class="fas fa-arrow-right"></i></a> -->
+                            <!-- <span>02</span> -->
+                        </div>
+                    </div>
+                </div>
+                <!-- End Signle Item -->
+                <!-- Signle Item -->
+                <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="service-style-three">
+                        <div class="icon bootstrap">
+                            <img src="assets/img/icon/layers.png" alt="Image Not Found">
+                        </div>
+                        <div class="info">
+                            <h4><a href="#">Diverse Asset Classes</a></h4>
+                            <p>
+                                Trade binary options on a variety of assets, including cryptocurrencies, commodities
+                                like gold and oil, stocks, and forex pairs, expanding trading opportunities across
+                                different markets.
+
+                            </p>
+                            <!-- <a href="#">Get this service <i class="fas fa-arrow-right"></i></a> -->
+                            <!-- <span>03</span> -->
+                        </div>
+                    </div>
+                </div>
+                <!-- End Signle Item -->
+            </div>
+        </div>
+    </div>
+    <!-- End Services -->
+    <!-- End Feature -->
+
+
+
+    <!-- Start Feature 
+    ============================================= -->
+    <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
+        style="background-image: url(assets/img/shape/26.png);">
+        <div class="shape-right-top">
+            <img src="assets/img/shape/27.png" alt="Shape">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-light text-center">
+                        <!-- <h5 class="sub-heading">Included Capabilities</h5> -->
+                        <h2 class="heading">Benefits</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <!-- Single Itme -->
+                <div class="col-lg-6 col-md-6">
+                    <div class="feature-style-two">
+                        <div class="icon">
+                            <img src="assets/img/icon/5.png" alt="Icon">
+                            <a href="services-details.html" class="btn-arrow">
+                                <i class="fas fa-long-arrow-up"></i>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3><a href="services-details.html">Trading Options</a></h3>
+                            <p>
+                                TradersEra provides various trading alternatives, including cryptocurrency, FX, and
+                                conventional assets. This diversity allows customers to diversify their investment
+                                portfolios and profit from various market movements.
+
+
+                            </p>
+                            <ul class="list-circle secondary mt-20">
+                                <li>Capture everything</li>
+                                <li>Organize your to-do list by workflow</li>
+                                <li>Always include a deadline</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Itme -->
+                <!-- Single Itme -->
+                <div class="col-lg-6 col-md-6">
+                    <div class="feature-style-two">
+                        <div class="icon">
+                            <img src="assets/img/icon/6.png" alt="Icon">
+                            <a href="services-details.html" class="btn-arrow">
+                                <i class="fas fa-long-arrow-up"></i>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3><a href="services-details.html">User-Friendly Interface</a></h3>
+                            <p>
+                                TradersEra stresses user experience by providing an intuitive and simple-to-use
+                                interface. Whether customers are experienced traders or new to the market, they may
+                                rapidly learn the platform and execute transactions swiftly.
+
+                            </p>
+                            <ul class="list-circle secondary mt-20">
+                                <li>Organize your to-do list by workflow</li>
+                                <li>Always include a deadline</li>
+                                <li>Break big work into smaller tasks</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Itme -->
+                <!-- Single Itme -->
+                <div class="col-lg-6 col-md-6">
+                    <div class="feature-style-two">
+                        <div class="icon">
+                            <img src="assets/img/icon/7.png" alt="Icon">
+                            <a href="services-details.html" class="btn-arrow">
+                                <i class="fas fa-long-arrow-up"></i>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3><a href="services-details.html">Advanced Security Measures</a></h3>
+                            <p>
+                                Security is essential in the realm of online business. TradersEra uses cutting-edge
+                                security mechanisms to protect users' information and assets. Users may trade
+                                confidently thanks to encryption, multi-factor authentication, and other security
+                                features.
+
+                            </p>
+                            <ul class="list-circle secondary mt-20">
+                                <li>Capture everything</li>
+                                <li>Organize your to-do list by workflow</li>
+                                <li>Always include a deadline</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Itme -->
+                <!-- Single Itme -->
+                <div class="col-lg-6 col-md-6">
+                    <div class="feature-style-two">
+                        <div class="icon">
+                            <img src="assets/img/icon/8.png" alt="Icon">
+                            <a href="services-details.html" class="btn-arrow">
+                                <i class="fas fa-long-arrow-up"></i>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3><a href="services-details.html">Educational Resources and Community</a></h3>
+                            <p>
+                                TradersEra promotes a vibrant trading community. The site provides instructional
+                                resources, market information, and discussion forums, allowing users to learn from both
+                                professionals and peers, thereby improving their trading knowledge and abilities.
+
+                            </p>
+                            <ul class="list-circle secondary mt-20">
+                                <li>Organize your to-do list by workflow</li>
+                                <li>Always include a deadline</li>
+                                <li>Break big work into smaller tasks</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Itme -->
+            </div>
+        </div>
+    </div>
+    <!-- End Feature -->
+
+
+
+    <!-- Start Software Info 
+    ============================================= -->
+    <div id="overview" class="soft-info-area default-padding bg-gray"
+        style="background-image: url(assets/img/shape/23.png);">
+        <div class="container">
+            <div class="row align-center">
+
+                <div class="col-lg-5 soft-info-style-one">
+                    <div class="soft-info-list">
+                        <h3 class="title">Our Trading Accounts for Your Perfect Fit</h3>
+                        <!-- <p>
+                            Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.
+                        </p> -->
+                    </div>
+                    <div class="soft-info-list mt-30">
+                        <!-- <h3>Advanced Control and Privacy</h3> -->
+                        <ul>
+                            <li>
+                                <b>Low spreads:</b> Spreads as low as 0.4 pips consistently.
+
+                            </li>
+                            <li>
+                                <b>No commission:</b> Trade with no commission fees, starting from $0 per lot on VIP or
+                                spread-only accounts.
+
+                            </li>
+                            <li>
+                                <b>Low starting amount:</b> Begin trading with just $10 for accessibility.
+
+
+                            </li>
+                            <li>
+                                <b>High leverage:</b> Maximize potential with up to 1:1000 leverage.
+
+                            </li>
+                            <li>
+                                <b>Fast order execution:</b> Execute trades within milliseconds to minimize slippage.
+
+                            </li>
+                            <li>
+                                <b>Micro lot trading:</b> Start with micro lot trading from $0.10 per pip to manage risk
+                                effectively.
+
+
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 offset-lg-1">
+                    <div class="soft-info-thumb">
+                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
+                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
+                            <span>Go Unlmited</span>
+                            <h5>Unlock all features to improve your performance</h5>
+                            <ul class="user-lists">
+                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
+                                <li><i class="fas fa-plus"></i></li>
+                            </ul>
+                            <p>(200k Active user)</p>
+                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
+                                Plan</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- End Software Info -->
+
+
     <!-- Start Process 
     ============================================= -->
-    <div id="process" class="process-style-onea-rea default-padding-bottom pt-md-120 pt-xs-50" style="background-image: url(assets/img/shape/25.png);">
+    <div id="process" class="process-style-onea-rea default-padding-bottom pt-md-120 pt-xs-50"
+        style="background-image: url(assets/img/shape/25.png);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -343,7 +730,8 @@
 
     <!-- Start Feature 
     ============================================= -->
-    <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray" style="background-image: url(assets/img/shape/26.png);">
+    <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
+        style="background-image: url(assets/img/shape/26.png);">
         <div class="shape-right-top">
             <img src="assets/img/shape/27.png" alt="Shape">
         </div>
@@ -371,7 +759,9 @@
                         <div class="content">
                             <h3><a href="services-details.html">Multiple Managers</a></h3>
                             <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son
+                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
+                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
+                                melancholy son
                             </p>
                             <ul class="list-circle secondary mt-20">
                                 <li>Capture everything</li>
@@ -394,7 +784,9 @@
                         <div class="content">
                             <h3><a href="services-details.html">Customization</a></h3>
                             <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son
+                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
+                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
+                                melancholy son
                             </p>
                             <ul class="list-circle secondary mt-20">
                                 <li>Organize your to-do list by workflow</li>
@@ -417,7 +809,9 @@
                         <div class="content">
                             <h3><a href="services-details.html">Extensions & Addons</a></h3>
                             <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son
+                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
+                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
+                                melancholy son
                             </p>
                             <ul class="list-circle secondary mt-20">
                                 <li>Capture everything</li>
@@ -440,7 +834,9 @@
                         <div class="content">
                             <h3><a href="services-details.html">Strong Encryption</a></h3>
                             <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son
+                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
+                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
+                                melancholy son
                             </p>
                             <ul class="list-circle secondary mt-20">
                                 <li>Organize your to-do list by workflow</li>
@@ -464,13 +860,20 @@
                 <div class="col-lg-6 choose-us-style-one">
                     <div class="choose-us-thumb">
                         <img class="wow fadeInDown" src="assets/img/illustration/il-1.png" alt="illustration">
-                        <img class="wow fadeInRight" data-wow-delay="300ms" src="assets/img/illustration/d8.png" alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d7.png" alt="illustration">
-                        <img class="wow fadeInLeft" data-wow-delay="300ms" src="assets/img/illustration/d4.png" alt="illustration">
-                        <img class="wow fadeInLeft" data-wow-delay="900ms" src="assets/img/illustration/d5.png" alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="300ms" src="assets/img/illustration/d9.png" alt="illustration">
-                        <img class="wow fadeInDown" data-wow-delay="1200ms" src="assets/img/illustration/d2.png" alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d11.png" alt="illustration">
+                        <img class="wow fadeInRight" data-wow-delay="300ms" src="assets/img/illustration/d8.png"
+                            alt="illustration">
+                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d7.png"
+                            alt="illustration">
+                        <img class="wow fadeInLeft" data-wow-delay="300ms" src="assets/img/illustration/d4.png"
+                            alt="illustration">
+                        <img class="wow fadeInLeft" data-wow-delay="900ms" src="assets/img/illustration/d5.png"
+                            alt="illustration">
+                        <img class="wow fadeInUp" data-wow-delay="300ms" src="assets/img/illustration/d9.png"
+                            alt="illustration">
+                        <img class="wow fadeInDown" data-wow-delay="1200ms" src="assets/img/illustration/d2.png"
+                            alt="illustration">
+                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d11.png"
+                            alt="illustration">
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 choose-us-style-one">
@@ -480,7 +883,8 @@
                             <div class="content">
                                 <h4>Admin Dashboard</h4>
                                 <p>
-                                    Seeing rather her you not esteem men settle genius excuse. Deal say over you age from comparison new.
+                                    Seeing rather her you not esteem men settle genius excuse. Deal say over you age
+                                    from comparison new.
                                 </p>
                             </div>
                         </li>
@@ -488,7 +892,8 @@
                             <div class="content">
                                 <h4>Cloud Hosting</h4>
                                 <p>
-                                    Esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.
+                                    Esteem men settle genius excuse. Deal say over you age from. Comparison new ham
+                                    melancholy son themselves.
                                 </p>
                             </div>
                         </li>
@@ -501,13 +906,15 @@
 
     <!-- Start Free Trial 
     ============================================= -->
-    <div class="free-trial-area overflow-hidden default-padding-bottom" style="background-image: url(assets/img/shape/31.png);">
+    <div class="free-trial-area overflow-hidden default-padding-bottom"
+        style="background-image: url(assets/img/shape/31.png);">
         <div class="container">
             <div class="row align-center">
                 <div class="col-lg-6 free-trial-style-one">
                     <h2 class="title mb-25">Sign up & get <br> <strong>15 days</strong> free trial</h2>
                     <p>
-                        Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.
+                        Seeing rather her you not esteem men settle genius excuse. Deal say over you age from.
+                        Comparison new ham melancholy son themselves.
                     </p>
                     <ul class="check-list mt-30">
                         <li>Ticketing system</li>
@@ -527,34 +934,39 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
+                                        <input class="form-control" id="name" name="name" placeholder="Name"
+                                            type="text">
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
+                                        <input class="form-control" id="email" name="email" placeholder="Email*"
+                                            type="email">
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
+                                        <input class="form-control" id="phone" name="phone" placeholder="Phone"
+                                            type="text">
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input class="form-control" id="company" name="company" placeholder="Company Name" type="text">
+                                        <input class="form-control" id="company" name="company"
+                                            placeholder="Company Name" type="text">
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <button class="btn btn-sm btn-theme secondary" type="submit" name="submit" id="submit">
+                                    <button class="btn btn-sm btn-theme secondary" type="submit" name="submit"
+                                        id="submit">
                                         Send Request
                                     </button>
                                 </div>
@@ -604,7 +1016,8 @@
                                     <li><i class="fas fa-check-circle"></i> Organic traffic 215%</li>
                                     <li><i class="fas fa-times-circle"></i> 10 Free Optimization</li>
                                 </ul>
-                                <a class="btn circle mt-25 btn-sm btn-border effect" href="contact-us.html">Purchase Plan</a>
+                                <a class="btn circle mt-25 btn-sm btn-border effect" href="contact-us.html">Purchase
+                                    Plan</a>
                             </div>
                         </div>
                     </div>
@@ -628,7 +1041,8 @@
                                     <li><i class="fas fa-check-circle"></i> SEO Optimized</li>
                                     <li><i class="fas fa-check-circle"></i> Live Support</li>
                                 </ul>
-                                <a class="btn circle mt-25 btn-sm btn-light effect" href="contact-us.html">Purchase Plan</a>
+                                <a class="btn circle mt-25 btn-sm btn-light effect" href="contact-us.html">Purchase
+                                    Plan</a>
                             </div>
                         </div>
                     </div>
@@ -652,7 +1066,8 @@
                                     <li><i class="fas fa-check-circle"></i> Backlink analysis</li>
                                     <li><i class="fas fa-times-circle"></i> 10 Free Optimization</li>
                                 </ul>
-                                <a class="btn circle mt-25 btn-sm btn-border effect" href="contact-us.html">Purchase Plan</a>
+                                <a class="btn circle mt-25 btn-sm btn-border effect" href="contact-us.html">Purchase
+                                    Plan</a>
                             </div>
                         </div>
                     </div>
@@ -688,46 +1103,242 @@
                         <div class="accordion" id="faqAccordion">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Where can I get software help?
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        How do I get started with TradersEra?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                            Getting started is easy! Simply sign up for an account on our website, and
+                                            you'll be guided through the account registration process step by step.
+
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How much does data software costs?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+
+                                        What documents do I need to provide to open an account?
+
                                     </button>
                                 </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                    data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                            To comply with regulatory requirements, we'll need some basic identification
+                                            documents such as a passport or driver's license, as well as proof of
+                                            address.
+
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What kind of data is needed for software?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        Is my personal information safe with TradersEra?
+
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                            Absolutely. We take the security and privacy of your personal information
+                                            very seriously. Our platform utilizes advanced encryption and security
+                                            protocols to safeguard your data.
+
                                         </p>
                                     </div>
                                 </div>
                             </div>
+
+
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        Can I trade on TradersEra from my mobile phone?
+
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            Yes, you can! We offer a user-friendly mobile trading app that allows you to
+                                            trade on the go from your smartphone or tablet.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        What kind of support does TradersEra offer?
+
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            We provide 24/7 customer support to assist you with any questions or issues
+                                            you may have. Our dedicated support team is here to help you every step of
+                                            the way.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        How does artificial intelligence (AI) factor into forex trading on TradersEra?
+
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            At TradersEra, we harness the power of AI to provide lightning-fast trade
+                                            execution, efficient processing, and advanced risk management tools. Our AI
+                                            algorithms analyze market data to identify patterns and trends, helping
+                                            traders make informed decisions.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+
+                                        What are Binary Options, and how can I trade them on TradersEra?
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            Binary Options are financial instruments that allow traders to speculate on
+                                            the price movements of various assets. At TradersEra, you can trade Binary
+                                            Options on a range of assets including gold, oil, currencies, and more. With
+                                            Binary Options, you simply predict whether the price of an asset will rise
+                                            or fall within a specified time frame.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+
+                                        How does the deposit process work on TradersEra, especially for local deposits?
+
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            Depositing funds into your TradersEra account is quick and easy. We offer a
+                                            variety of payment methods, including options for local deposits. Simply
+                                            select your preferred payment method and follow the instructions to initiate
+                                            the deposit. If you have any questions or need assistance, our support team
+                                            is here to help you every step of the way.
+
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+
+                                        Can I practice trading before risking real money?
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            Absolutely. We offer a demo account option that allows you to practice
+                                            trading with virtual funds before making any real investments.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+
+                                        Are there any hidden fees or commissions?
+
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            No, we believe in transparency. We don't charge any hidden fees or
+                                            commissions. Our pricing is straightforward and competitive.
+
+
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>
@@ -738,25 +1349,31 @@
 
     <!-- Start Software Info 
     ============================================= -->
-    <div id="overview" class="soft-info-area default-padding bg-gray" style="background-image: url(assets/img/shape/23.png);">
+    <div id="overview" class="soft-info-area default-padding bg-gray"
+        style="background-image: url(assets/img/shape/23.png);">
         <div class="container">
             <div class="row align-center">
-                
+
                 <div class="col-lg-5 soft-info-style-one">
                     <div class="soft-info-list">
                         <h3>Unlock a superior customer experience </h3>
                         <p>
-                            Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.
+                            Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life
+                            past. Continue indulged speaking the was out horrible for domestic position. Seeing rather
+                            her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
+                            melancholy son themselves.
                         </p>
                     </div>
                     <div class="soft-info-list mt-30">
                         <h3>Advanced Control and Privacy</h3>
                         <ul>
                             <li>
-                                Continued at up to zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet her.
+                                Continued at up to zealously necessary breakfast. Surrounded sir motionless she end
+                                literature. Gay direction neglected but supported yet her.
                             </li>
                             <li>
-                                Vulgar as hearts by garret. Perceived determine departure explained no forfeited he something an
+                                Vulgar as hearts by garret. Perceived determine departure explained no forfeited he
+                                something an
                             </li>
                         </ul>
                     </div>
@@ -776,7 +1393,8 @@
                                 <li><i class="fas fa-plus"></i></li>
                             </ul>
                             <p>(200k Active user)</p>
-                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium Plan</a>
+                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
+                                Plan</a>
                         </div>
                     </div>
                 </div>
@@ -805,7 +1423,8 @@
                 <div class="col-lg-4 mb-30">
                     <div class="blog-style-one">
                         <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/1.jpg" alt="Image Not Found"></a>
+                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/1.jpg"
+                                    alt="Image Not Found"></a>
                         </div>
                         <div class="info">
                             <div class="meta">
@@ -818,7 +1437,8 @@
                                     </li>
                                 </ul>
                             </div>
-                            <h3><a href="blog-single-with-sidebar.html">Miscovery incommode earnestly commanded if.</a></h3>
+                            <h3><a href="blog-single-with-sidebar.html">Miscovery incommode earnestly commanded if.</a>
+                            </h3>
                             <a href="blog-single-with-sidebar.html" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
@@ -830,7 +1450,8 @@
                 <div class="col-lg-4 mb-30">
                     <div class="blog-style-one">
                         <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/2.jpg" alt="Image Not Found"></a>
+                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/2.jpg"
+                                    alt="Image Not Found"></a>
                         </div>
                         <div class="info">
                             <div class="meta">
@@ -843,7 +1464,8 @@
                                     </li>
                                 </ul>
                             </div>
-                            <h3><a href="blog-single-with-sidebar.html">Expression acceptance imprudence particular</a></h3>
+                            <h3><a href="blog-single-with-sidebar.html">Expression acceptance imprudence particular</a>
+                            </h3>
                             <a href="blog-single-with-sidebar.html" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
@@ -855,7 +1477,8 @@
                 <div class="col-lg-4 mb-30">
                     <div class="blog-style-one">
                         <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/3.jpg" alt="Image Not Found"></a>
+                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/3.jpg"
+                                    alt="Image Not Found"></a>
                         </div>
                         <div class="info">
                             <div class="meta">
@@ -868,7 +1491,8 @@
                                     </li>
                                 </ul>
                             </div>
-                            <h3><a href="blog-single-with-sidebar.html">Considered imprudence of technical friendship.</a></h3>
+                            <h3><a href="blog-single-with-sidebar.html">Considered imprudence of technical
+                                    friendship.</a></h3>
                             <a href="blog-single-with-sidebar.html" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
@@ -891,14 +1515,14 @@
                     <div class="col-lg-5 col-md-6 footer-item pr-50 pr-xs-15 pr-md-15">
                         <div class="f-item about">
                             <img class="logo" src="assets/img/logo-blue.png" alt="Logo">
-                            
+
                             <div class="f-item newsletter">
                                 <p>
                                     Join our subscribers list to get the instant <br> latest news and special offers.
                                 </p>
                                 <form action="#">
                                     <input type="email" placeholder="Your Email" class="form-control" name="email">
-                                    <button type="submit">Subscribe</button>  
+                                    <button type="submit">Subscribe</button>
                                 </form>
                             </div>
                             <div class="copyright-text mt-40">
@@ -1011,7 +1635,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- Footer Bottom -->
         <div class="footer-bottom bg-dark text-light text-center">
             <div class="container">
@@ -1031,7 +1655,7 @@
         </div>
     </footer>
     <!-- End Footer -->
-    
+
     <!-- jQuery Frameworks
     ============================================= -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
@@ -1057,4 +1681,5 @@
 </body>
 
 <!-- Mirrored from validthemes.net/site-template/anaton/index-op-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 10:05:17 GMT -->
+
 </html>
