@@ -647,6 +647,154 @@
     <!-- End Software Info -->
 
 
+    <div id="services" class="services-style-two-area bg-gray default-padding bottom-less">
+        <div class="container">
+            <div class="row align-center">
+
+                <div class="col-xl-12">
+                    <div class="site-heading">
+                        <!-- <h5 class="sub-title">Easy Handling</h5> -->
+                        <h2 class="title">Open an account in 4 simple steps</h2>
+                    </div>
+                </div>
+
+                <div class="col-xl-12">
+                    <div class="row">
+                        <!-- Single Item -->
+                        <div class="services-style-two col-lg-3 col-md-6 mb-30">
+                            <div class="item">
+                                <div class="icon">
+                                    <img src="assets/img/icon/appoinment.png" alt="Icon">
+                                </div>
+                                <h3><a href="services-details.html">Register</a></h3>
+                                <div class="bottom">
+                                    <span>Create an account with your Bank Details and &nbsp; login  to the dashboard.
+                                    </span>
+                                    <a href="services-details.html" class="angle-btn">
+                                        <img src="assets/img/shape/arrow.svg" alt="Arrow Icon">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="services-style-two col-lg-3 col-md-6 mb-30">
+                            <div class="item">
+                                <div class="icon">
+                                    <img src="assets/img/icon/team.png" alt="Icon">
+                                </div>
+                                <h3><a href="services-details.html">Verify</a></h3>
+                                <div class="bottom">
+                                    <span>Our online verification tool provides your details and documents.
+                                    </span>
+                                    <a href="services-details.html" class="angle-btn">
+                                        <img src="assets/img/shape/arrow.svg" alt="Arrow Icon">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="services-style-two col-xl-3 col-lg-6 col-md-6 mb-30">
+                            <div class="item">
+                                <div class="icon">
+                                    <img src="assets/img/icon/users.png" alt="Icon">
+                                </div>
+                                <h3><a href="services-details.html">Fund</a></h3>
+                                <div class="bottom">
+                                    <span>Our various funding options to deposit money into your trading account.
+                                    </span>
+                                    <a href="services-details.html" class="angle-btn">
+                                        <img src="assets/img/shape/arrow.svg" alt="Arrow Icon">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="services-style-two col-xl-3 col-lg-6 col-md-6 mb-30">
+                            <div class="item">
+                                <div class="icon">
+                                    <img src="assets/img/icon/creativity.png" alt="Icon">
+                                </div>
+                                <h3><a href="services-details.html">Trade</a></h3>
+                                <div class="bottom">
+                                    <span>Start a trading journey with binary and spot trading options.
+                                    </span>
+                                    <a href="services-details.html" class="angle-btn">
+                                        <img src="assets/img/shape/arrow.svg" alt="Arrow Icon">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+
+    <div id="overview" class="soft-info-area default-padding bg-gray"
+    style="background-image: url(assets/img/shape/23.png);">
+    <div class="container">
+        <div class="row align-center">
+
+            <div class="col-lg-5 soft-info-style-one">
+                <div class="soft-info-list">
+                    <h3>Become a Partner</h3>
+                    <p>
+                        You can Partner with TradersEra as an Introducing Broker (IB) and unlock a world of opportunities:
+
+                    </p>
+                </div>
+                <div class="soft-info-list mt-30">
+                    <h4>For Your Clients</h4>
+                    <ul>
+                        <li>
+                            Access MetaTrader 5, the award-winning platform, for informed trading decisions.
+                            Trade a diverse range of global markets with exceptional liquidity and low spreads.
+                            
+                        </li>
+                       
+                    </ul>
+                    <br>
+                    <h4>For Introducing Brokers</h4>
+                    <ul>
+                        <li>
+                            Collaborate with a reputable company committed to transparency and support.
+                            Enjoy real-time monitoring and reporting, personalized assistance, and attractive earning potential.
+                            
+                        </li>
+                        <li>Join TradersEra as an IB and amplify your success in the brokerage world today!
+
+                        </li>
+                       
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-6 offset-lg-1">
+                <div class="soft-info-thumb">
+                    <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
+                    <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
+                        <span>Go Unlmited</span>
+                        <h5>Unlock all features to improve your performance</h5>
+                        <ul class="user-lists">
+                            <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
+                            <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
+                            <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
+                            <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
+                            <li><i class="fas fa-plus"></i></li>
+                        </ul>
+                        <p>(200k Active user)</p>
+                        <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
+                            Plan</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
     <!-- Start Process 
     ============================================= -->
     <div id="process" class="process-style-onea-rea default-padding-bottom pt-md-120 pt-xs-50"
