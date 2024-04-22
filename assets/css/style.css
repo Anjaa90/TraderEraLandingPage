@@ -1818,6 +1818,8 @@ button i {
 	color: var(--white);
 	border: none;
 	background: var(--color-optional);
+	font-weight: 600;
+    font-size: 18px;
 }
 
 .btn.btn-theme.secondary::after {

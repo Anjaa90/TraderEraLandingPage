@@ -120,55 +120,21 @@
                     <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
                         <li>
                             <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Home</a>
-                            <!-- <ul class="dropdown-menu">
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Multipage</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="creative-agency.html">Creative Agency <span class="badge">New</span></a></li>
-                                        <li><a href="chatbot.html">Chatbot <span class="badge">New</span></a></li>
-                                        <li><a href="app-landing.html">App Landing <span class="badge">New</span></a></li>
-                                        <li><a href="index.html">SaaS Landing</a></li>
-                                        <li><a href="index-2.html">Software Landing</a></li>
-                                        <li><a href="personal-portfolio.html">Personal Portfolio</a></li>
-                                        <li><a href="index-3.html">SaaS Marketing</a></li>
-                                        <li><a href="ai-writer.html">AI Writter</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Onepage</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="index-op.html">SaaS Landing</a></li>
-                                        <li><a href="index-op-2.html">Software Landing</a></li>
-                                        <li><a href="personal-portfolio.html">Personal Portfolio</a></li>
-                                        <li><a href="index-op-3.html">SaaS Marketing</a></li>
-                                        <li><a href="ai-writter-op.html">AI Writter</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Home Dark</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="index-dark.html">SaaS Landing</a></li>
-                                        <li><a href="index-2-dark.html">Software Landing</a></li>
-                                        <li><a href="index-3-dark.html">SaaS Marketing</a></li>
-                                    </ul>
-                                </li>
-                                <li><a target="_blank" href="comming-soon.html">Home Comming Soon</a></li>
-                            </ul> -->
                         </li>
                         <li>
-                            <a class="smooth-menu" href="#process">Process</a>
+                            <a class="smooth-menu" href="#feature">Features</a>
                         </li>
                         <li>
-                            <a class="smooth-menu" href="#services">Services</a>
+                            <a class="smooth-menu" href="#benefits">Benefits</a>
                         </li>
                         <li>
-                            <a class="smooth-menu" href="#pricing">pricing</a>
+                            <a class="smooth-menu" href="#account">Account Types</a>
                         </li>
                         <li>
-                            <a class="smooth-menu" href="#overview">Overview</a>
+                            <a class="smooth-menu" href="#partner">Become a partner</a>
                         </li>
                         <li>
-                            <a class="smooth-menu" href="#blog">Blog</a>
+                            <a class="smooth-menu" href="#faq">FAQ</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
@@ -178,7 +144,7 @@
                     <div class="attr-nav">
                         <ul>
                             <li class="button border-btn secondary">
-                                <a href="contact-us.html">Get consultant</a>
+                                <a href="https://trading.tradersera.com/login">Login</a>
                             </li>
                         </ul>
                     </div>
@@ -227,17 +193,6 @@
                                 It's more than simply trading; it's about starting a journey toward financial
                                 independence, and we're here to help you every step of the way.
                             </p>
-                            <!-- <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                TradersEra enables users in various locales to explore financial markets comfortably.
-                                Our dedication to accessibility and support guarantees that traders in every city, from
-                                New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
-                                success and wealth in the unpredictable world of trading.
-
-                            </p>
-                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                Join TradersEra now and see why we're the preferred option for traders looking for the
-                                best trading experience.
-                            </p> -->
 
 
                         </div>
@@ -245,35 +200,6 @@
                             <div class="thumb">
                                 <img class="wow fadeInDown" src="assets/img/dashboard/2.png" alt="Thumb">
                                 <div class="banner-app-features">
-                                    <!-- <ul>
-                                        <li>
-                                            <div class="icon">
-                                                <i class="fas fa-video"></i>
-                                            </div>
-                                            <div class="info">
-                                                <span>Calling Features</span>
-                                                <h4>Live Video Call</h4>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <i class="fas fa-database"></i>
-                                            </div>
-                                            <div class="info">
-                                                <span>Database</span>
-                                                <h4>Unlimited Database</h4>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <i class="fas fa-cog"></i>
-                                            </div>
-                                            <div class="info">
-                                                <span>Core Settings</span>
-                                                <h4>Dynamic Functionality</h4>
-                                            </div>
-                                        </li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -287,71 +213,62 @@
 
 
     <div id="overview" class="soft-info-area default-padding bg-gray"
-    style="background-image: url(assets/img/shape/23.png);">
-    <div class="container">
-        <div class="row align-center">
+        style="background-image: url(assets/img/shape/23.png);">
+        <div class="container">
+            <div class="row align-center">
 
-            <div class="col-lg-5 soft-info-style-one">
-                <div class="soft-info-list">
-                    <!-- <h3>Become a Partner</h3>
-                    <p>
-                        TradersEra enables users in various locales to explore financial markets comfortably.
-                        Our dedication to accessibility and support guarantees that traders in every city, from
-                        New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
-                        success and wealth in the unpredictable world of trading.
-                    </p> -->
-                </div>
-                <div class="soft-info-list mt-30">
-                    <!-- <h4>For Your Clients</h4> -->
-                    <ul>
-                        <li>
-                            TradersEra enables users in various locales to explore financial markets comfortably.
-                            Our dedication to accessibility and support guarantees that traders in every city, from
-                            New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
-                            success and wealth in the unpredictable world of trading.
-                        </li>
-                       
-                    </ul>
-                    <br>
-                    <!-- <h4>For Introducing Brokers</h4> -->
-                    <ul>
-                        <li>
-                            Join TradersEra now and see why we're the preferred option for traders looking for the
-                                best trading experience.
-                        </li>
-                   
-                    </ul>
-                </div>
-            </div>
+                <div class="col-lg-5 soft-info-style-one">
+                    <div class="soft-info-list">
+                    </div>
+                    <div class="soft-info-list mt-30">
+                        <ul>
+                            <li>
+                                TradersEra enables users in various locales to explore financial markets comfortably.
+                                Our dedication to accessibility and support guarantees that traders in every city, from
+                                New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
+                                success and wealth in the unpredictable world of trading.
+                            </li>
 
-            <div class="col-lg-6 offset-lg-1">
-                <div class="soft-info-thumb">
-                    <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
-                    <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
-                        <span>Go Unlmited</span>
-                        <h5>Unlock all features to improve your performance</h5>
-                        <ul class="user-lists">
-                            <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
-                            <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
-                            <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
-                            <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
-                            <li><i class="fas fa-plus"></i></li>
                         </ul>
-                        <p>(200k Active user)</p>
-                        <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
-                            Plan</a>
+                        <br>
+                        <ul>
+                            <li>
+                                Join TradersEra now and see why we're the preferred option for traders looking for the
+                                best trading experience.
+                            </li>
+
+                        </ul>
                     </div>
                 </div>
-            </div>
 
+                <div class="col-lg-6 offset-lg-1">
+                    <div class="soft-info-thumb">
+                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
+                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
+                            <span>Go Unlmited</span>
+                            <h5>Unlock all features to improve your performance</h5>
+                            <ul class="user-lists">
+                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
+                                <li><i class="fas fa-plus"></i></li>
+                            </ul>
+                            <p>(200k Active user)</p>
+                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
+                                Plan</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </div>
     </div>
-</div>
 
 
     <!-- Start Choose Us 
     ============================================= -->
-    <div class="choose-us-area default-padding overflow-hidden">
+    <div id="feature" class="choose-us-area default-padding overflow-hidden">
         <div class="container">
             <div class="row align-center">
                 <div class="col-lg-6 choose-us-style-one">
@@ -448,8 +365,6 @@
 
                             </p>
                             <br>
-                            <!-- <a href="#">Get this service <i class="fas fa-arrow-right"></i></a> -->
-                            <!-- <span>01</span> -->
                         </div>
                     </div>
                 </div>
@@ -468,8 +383,6 @@
 
                             </p>
                             <br><br>
-                            <!-- <a href="#">Get this service <i class="fas fa-arrow-right"></i></a> -->
-                            <!-- <span>02</span> -->
                         </div>
                     </div>
                 </div>
@@ -488,8 +401,6 @@
                                 different markets.
 
                             </p>
-                            <!-- <a href="#">Get this service <i class="fas fa-arrow-right"></i></a> -->
-                            <!-- <span>03</span> -->
                         </div>
                     </div>
                 </div>
@@ -504,7 +415,7 @@
 
     <!-- Start Feature 
     ============================================= -->
-    <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
+    <div id="benefits" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
         style="background-image: url(assets/img/shape/26.png);">
         <div class="shape-right-top">
             <img src="assets/img/shape/27.png" alt="Shape">
@@ -644,12 +555,8 @@
                 <div class="col-lg-5 soft-info-style-one">
                     <div class="soft-info-list">
                         <h3 class="title">Our Trading Accounts for Your Perfect Fit</h3>
-                        <!-- <p>
-                            Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.
-                        </p> -->
                     </div>
                     <div class="soft-info-list mt-30">
-                        <!-- <h3>Advanced Control and Privacy</h3> -->
                         <ul>
                             <li>
                                 <b>Low spreads:</b> Spreads as low as 0.4 pips consistently.
@@ -709,13 +616,12 @@
     <!-- End Software Info -->
 
 
-    <div id="services" class="services-style-two-area bg-gray default-padding bottom-less">
+    <div id="account" class="services-style-two-area bg-gray default-padding bottom-less">
         <div class="container">
             <div class="row align-center">
 
                 <div class="col-xl-12">
                     <div class="site-heading">
-                        <!-- <h5 class="sub-title">Easy Handling</h5> -->
                         <h2 class="title">Open an account in 4 simple steps</h2>
                     </div>
                 </div>
@@ -730,7 +636,7 @@
                                 </div>
                                 <h3><a href="services-details.html">Register</a></h3>
                                 <div class="bottom">
-                                    <span>Create an account with your Bank Details and &nbsp; login  to the dashboard.
+                                    <span>Create an account with your Bank Details and &nbsp; login to the dashboard.
                                     </span>
                                     <a href="services-details.html" class="angle-btn">
                                         <img src="assets/img/shape/arrow.svg" alt="Arrow Icon">
@@ -785,509 +691,88 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- End Single Item -->
+                        <div class="d-flex justify-content-center">
+                        <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="https://trading.tradersera.com/register">Open an account</a>
+                         </div>   
                     </div>
                 </div>
-
-                
             </div>
         </div>
     </div>
 
-    <div id="overview" class="soft-info-area default-padding bg-gray"
-    style="background-image: url(assets/img/shape/23.png);">
-    <div class="container">
-        <div class="row align-center">
+    <div id="partner" class="soft-info-area default-padding bg-gray"
+        style="background-image: url(assets/img/shape/23.png);">
+        <div class="container">
+            <div class="row align-center">
 
-            <div class="col-lg-5 soft-info-style-one">
-                <div class="soft-info-list">
-                    <h3>Become a Partner</h3>
-                    <p>
-                        You can Partner with TradersEra as an Introducing Broker (IB) and unlock a world of opportunities:
+                <div class="col-lg-5 soft-info-style-one">
+                    <div class="soft-info-list">
+                        <h1>Become a Partner</h1>
+                        <p>
+                            You can Partner with TradersEra as an Introducing Broker (IB) and unlock a world of
+                            opportunities:
 
-                    </p>
-                </div>
-                <div class="soft-info-list mt-30">
-                    <h4>For Your Clients</h4>
-                    <ul>
-                        <li>
-                            Access MetaTrader 5, the award-winning platform, for informed trading decisions.
-                            Trade a diverse range of global markets with exceptional liquidity and low spreads.
-                            
-                        </li>
-                       
-                    </ul>
-                    <br>
-                    <h4>For Introducing Brokers</h4>
-                    <ul>
-                        <li>
-                            Collaborate with a reputable company committed to transparency and support.
-                            Enjoy real-time monitoring and reporting, personalized assistance, and attractive earning potential.
-                            
-                        </li>
-                        <li>Join TradersEra as an IB and amplify your success in the brokerage world today!
+                        </p>
+                    </div>
+                    <div class="soft-info-list mt-30">
+                        <h4>For Your Clients</h4>
+                        <ul>
+                            <li>
+                                Access MetaTrader 5, the award-winning platform, for informed trading decisions.
+                                Trade a diverse range of global markets with exceptional liquidity and low spreads.
 
-                        </li>
-                       
-                    </ul>
-                </div>
-            </div>
+                            </li>
 
-            <div class="col-lg-6 offset-lg-1">
-                <div class="soft-info-thumb">
-                    <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
-                    <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
-                        <span>Go Unlmited</span>
-                        <h5>Unlock all features to improve your performance</h5>
-                        <ul class="user-lists">
-                            <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
-                            <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
-                            <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
-                            <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
-                            <li><i class="fas fa-plus"></i></li>
                         </ul>
-                        <p>(200k Active user)</p>
-                        <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
-                            Plan</a>
+                        <br>
+                        <h4>For Introducing Brokers</h4>
+                        <ul>
+                            <li>
+                                Collaborate with a reputable company committed to transparency and support.
+                                Enjoy real-time monitoring and reporting, personalized assistance, and attractive
+                                earning potential.
+
+                            </li>
+                            <li>Join TradersEra as an IB and amplify your success in the brokerage world today!
+
+                            </li>
+
+                        </ul>
                     </div>
                 </div>
-            </div>
 
+                <div class="col-lg-6 offset-lg-1">
+                    <div class="soft-info-thumb">
+                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
+                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
+                            <span>Go Unlmited</span>
+                            <h5>Unlock all features to improve your performance</h5>
+                            <ul class="user-lists">
+                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
+                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
+                                <li><i class="fas fa-plus"></i></li>
+                            </ul>
+                            <p>(200k Active user)</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </div>
     </div>
-</div>
 
-    <!-- Start Process 
-    ============================================= -->
-    <!-- <div id="process" class="process-style-onea-rea default-padding-bottom pt-md-120 pt-xs-50"
-        style="background-image: url(assets/img/shape/25.png);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-heading">Working Process</h5>
-                        <h2 class="heading">The only app you will need</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="process-style-one-box text-center">
-                <div class="row">
-                    <div class="col-lg-8 offset-lg-2">
-                        <div class="row">
-
-                         
-                            <div class="col-lg-6 col-md-6">
-                                <div class="process-style-one">
-                                    <div class="inner-info">
-                                        <img src="assets/img/icon/1.png" alt="Icon">
-                                        <h4>New sharing made for people</h4>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="col-lg-6 col-md-6">
-                                <div class="process-style-one">
-                                    <div class="inner-info">
-                                        <img src="assets/img/icon/4.png" alt="Icon">
-                                        <h4>Thousand of features and Custom option.</h4>
-                                    </div>
-                                </div>
-                            </div>
-               
-                            <div class="shape-center">
-                                <img src="assets/img/shape/24.png" alt="Shape">
-                            </div>
-
-                          
-                            <div class="col-lg-6 offset-lg-3">
-                                <div class="process-style-one">
-                                    <div class="inner-info">
-                                        <img src="assets/img/icon/3.png" alt="Icon">
-                                        <h4>One integrated solution Manage</h4>
-                                    </div>
-                                </div>
-                            </div>
-                           
-
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="process-fun-fact">
-                            <div class="fun-fact">
-                                <div class="counter">
-                                    <div class="timer" data-to="276" data-speed="2000">276</div>
-                                    <div class="operator">K</div>
-                                </div>
-                                <span class="medium">Active user from the community</span>
-                            </div>
-                            <div class="fun-fact">
-                                <div class="counter">
-                                    <div class="timer" data-to="90" data-speed="2000">90</div>
-                                    <div class="operator">%</div>
-                                </div>
-                                <span class="medium">(4,655) Positive Rating</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Process -->
-
-    <!-- Start Feature 
-    ============================================= -->
-    <!-- <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
-        style="background-image: url(assets/img/shape/26.png);">
-        <div class="shape-right-top">
-            <img src="assets/img/shape/27.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-light text-center">
-                        <h5 class="sub-heading">Included Capabilities</h5>
-                        <h2 class="heading">Features designed for you</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-             
-                <div class="col-lg-6 col-md-6">
-                    <div class="feature-style-two">
-                        <div class="icon">
-                            <img src="assets/img/icon/5.png" alt="Icon">
-                            <a href="services-details.html" class="btn-arrow">
-                                <i class="fas fa-long-arrow-up"></i>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3><a href="services-details.html">Multiple Managers</a></h3>
-                            <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
-                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
-                                melancholy son
-                            </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Capture everything</li>
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-               
-                <div class="col-lg-6 col-md-6">
-                    <div class="feature-style-two">
-                        <div class="icon">
-                            <img src="assets/img/icon/6.png" alt="Icon">
-                            <a href="services-details.html" class="btn-arrow">
-                                <i class="fas fa-long-arrow-up"></i>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3><a href="services-details.html">Customization</a></h3>
-                            <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
-                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
-                                melancholy son
-                            </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                                <li>Break big work into smaller tasks</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-               
-                <div class="col-lg-6 col-md-6">
-                    <div class="feature-style-two">
-                        <div class="icon">
-                            <img src="assets/img/icon/7.png" alt="Icon">
-                            <a href="services-details.html" class="btn-arrow">
-                                <i class="fas fa-long-arrow-up"></i>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3><a href="services-details.html">Extensions & Addons</a></h3>
-                            <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
-                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
-                                melancholy son
-                            </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Capture everything</li>
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-lg-6 col-md-6">
-                    <div class="feature-style-two">
-                        <div class="icon">
-                            <img src="assets/img/icon/8.png" alt="Icon">
-                            <a href="services-details.html" class="btn-arrow">
-                                <i class="fas fa-long-arrow-up"></i>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3><a href="services-details.html">Strong Encryption</a></h3>
-                            <p>
-                                Continue indulged speaking the was out horrible domestic position. Seeing rather her you
-                                not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
-                                melancholy son
-                            </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                                <li>Break big work into smaller tasks</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-               
-            </div>
-        </div>
-    </div> -->
-    <!-- End Feature -->
-
-    <!-- Start Choose Us 
-    ============================================= -->
-    <!-- <div class="choose-us-area default-padding overflow-hidden">
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-lg-6 choose-us-style-one">
-                    <div class="choose-us-thumb">
-                        <img class="wow fadeInDown" src="assets/img/illustration/il-1.png" alt="illustration">
-                        <img class="wow fadeInRight" data-wow-delay="300ms" src="assets/img/illustration/d8.png"
-                            alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d7.png"
-                            alt="illustration">
-                        <img class="wow fadeInLeft" data-wow-delay="300ms" src="assets/img/illustration/d4.png"
-                            alt="illustration">
-                        <img class="wow fadeInLeft" data-wow-delay="900ms" src="assets/img/illustration/d5.png"
-                            alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="300ms" src="assets/img/illustration/d9.png"
-                            alt="illustration">
-                        <img class="wow fadeInDown" data-wow-delay="1200ms" src="assets/img/illustration/d2.png"
-                            alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d11.png"
-                            alt="illustration">
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 choose-us-style-one">
-                    <h2 class="title">An editor designed <br> for contracts. </h2>
-                    <ul class="list-double mt-50 mt-xs-30 mt-md-30">
-                        <li>
-                            <div class="content">
-                                <h4>Admin Dashboard</h4>
-                                <p>
-                                    Seeing rather her you not esteem men settle genius excuse. Deal say over you age
-                                    from comparison new.
-                                </p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="content">
-                                <h4>Cloud Hosting</h4>
-                                <p>
-                                    Esteem men settle genius excuse. Deal say over you age from. Comparison new ham
-                                    melancholy son themselves.
-                                </p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Choose Us -->
-
-    <!-- Start Free Trial 
-    ============================================= -->
-    <!-- <div class="free-trial-area overflow-hidden default-padding-bottom"
-        style="background-image: url(assets/img/shape/31.png);">
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-lg-6 free-trial-style-one">
-                    <h2 class="title mb-25">Sign up & get <br> <strong>15 days</strong> free trial</h2>
-                    <p>
-                        Seeing rather her you not esteem men settle genius excuse. Deal say over you age from.
-                        Comparison new ham melancholy son themselves.
-                    </p>
-                    <ul class="check-list mt-30">
-                        <li>Ticketing system</li>
-                        <li>Automated ticket distribution</li>
-                        <li>Social media integration</li>
-                        <li>Call and voice mail recordings</li>
-                    </ul>
-                    <div class="call mt-25">
-                        <p>Give us a free cal</p>
-                        <h4><a href="tel:+4733378901">+4733378901</a></h4>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1">
-                    <div class="trial-form">
-                        <h4>Request for demo</h4>
-                        <form action="#" class="contact-form contact-form">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name"
-                                            type="text">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*"
-                                            type="email">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone"
-                                            type="text">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="company" name="company"
-                                            placeholder="Company Name" type="text">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button class="btn btn-sm btn-theme secondary" type="submit" name="submit"
-                                        id="submit">
-                                        Send Request
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                        <div class="shape">
-                            <img src="assets/img/illustration/2.png" alt="Image Not Found">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Free Trial -->
-
-    <!-- Start Pricing 
-    ============================================= -->
-    <!-- <div id="pricing" class="pricing-style-two-area shadow top-shape-gray default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-light text-center">
-                        <h5 class="sub-heading">Best Pricing</h5>
-                        <h2 class="heading">No hidden charges! <br> choose your plan.</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="pricing-style-two-items mt-25">
-                <div class="row">
-                 
-                    <div class="col-lg-4 col-md-6 pricing-style-two">
-                        <div class="item">
-                            <div class="pricing-header">
-                                <h4>Basic Plan</h4>
-                                <div class="price">
-                                    <h2><strong>Free</strong></h2>
-                                </div>
-                            </div>
-                            <div class="pricing-content">
-                                <p>
-                                    Low cost & affordable services to get you started very soon.
-                                </p>
-                                <ul>
-                                    <li><i class="fas fa-check-circle"></i> Increase traffic 130%</li>
-                                    <li><i class="fas fa-check-circle"></i> Organic traffic 215%</li>
-                                    <li><i class="fas fa-times-circle"></i> 10 Free Optimization</li>
-                                </ul>
-                                <a class="btn circle mt-25 btn-sm btn-border effect" href="contact-us.html">Purchase
-                                    Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                  
-
-                 
-                    <div class="col-lg-4 col-md-6 pricing-style-two active">
-                        <div class="item">
-                            <div class="pricing-header">
-                                <h4>Premium Plan</h4>
-                                <div class="price">
-                                    <h2><sup>$</sup>29 <sub>/ Monthly</sub></h2>
-                                </div>
-                            </div>
-                            <div class="pricing-content">
-                                <p>
-                                    Increased processing power with multiple sites, storage.
-                                </p>
-                                <ul>
-                                    <li><i class="fas fa-check-circle"></i> 1,300 Keywords</li>
-                                    <li><i class="fas fa-check-circle"></i> SEO Optimized</li>
-                                    <li><i class="fas fa-check-circle"></i> Live Support</li>
-                                </ul>
-                                <a class="btn circle mt-25 btn-sm btn-light effect" href="contact-us.html">Purchase
-                                    Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-4 col-md-6 pricing-style-two">
-                        <div class="item">
-                            <div class="pricing-header">
-                                <h4>Advanced Plan</h4>
-                                <div class="price">
-                                    <h2><sup>$</sup>58 <sub>/ Monthly</sub></h2>
-                                </div>
-                            </div>
-                            <div class="pricing-content">
-                                <p>
-                                    Target is processing power with multiple sites, storage.
-                                </p>
-                                <ul>
-                                    <li><i class="fas fa-check-circle"></i> Increase traffic 130%</li>
-                                    <li><i class="fas fa-check-circle"></i> Backlink analysis</li>
-                                    <li><i class="fas fa-times-circle"></i> 10 Free Optimization</li>
-                                </ul>
-                                <a class="btn circle mt-25 btn-sm btn-border effect" href="contact-us.html">Purchase
-                                    Plan</a>
-                            </div>
-                        </div>
-                    </div>
-                  
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Pricing -->
 
     <!-- Start Faq -->
-    <div class="faq-style-area-faq default-padding-bottom"  style="background-image: url(assets/img/shape/globe.png);">
+    <div id="faq" class="faq-style-area-faq default-padding-bottom"
+        style="background-image: url(assets/img/shape/globe.png);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 faq-style-two">
-                    <Center><h2 class="title-faq">Frequently asked questions</h2></Center>
+                    <Center>
+                        <h2 class="title-faq">Frequently asked questions</h2>
+                    </Center>
                 </div>
                 <div class="col-lg-12">
                     <div class="faq-style-two mt--20">
@@ -1366,8 +851,8 @@
 
                                     </button>
                                 </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse"
-                                    aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                    data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             Yes, you can! We offer a user-friendly mobile trading app that allows you to
@@ -1387,8 +872,8 @@
 
                                     </button>
                                 </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse"
-                                    aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                    data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             We provide 24/7 customer support to assist you with any questions or issues
@@ -1403,15 +888,14 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseSix" aria-expanded="false"
-                                        aria-controls="collapseSix">
+                                        data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         How does artificial intelligence (AI) factor into forex trading on TradersEra?
 
 
                                     </button>
                                 </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse"
-                                    aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
+                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                                    data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             At TradersEra, we harness the power of AI to provide lightning-fast trade
@@ -1492,8 +976,8 @@
 
                                     </button>
                                 </h2>
-                                <div id="collapseNine" class="accordion-collapse collapse"
-                                    aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
+                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
+                                    data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             Absolutely. We offer a demo account option that allows you to practice
@@ -1508,15 +992,14 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTen" aria-expanded="false"
-                                        aria-controls="collapseTen">
+                                        data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
 
                                         Are there any hidden fees or commissions?
 
                                     </button>
                                 </h2>
-                                <div id="collapseTen" class="accordion-collapse collapse"
-                                    aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
+                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
+                                    data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             No, we believe in transparency. We don't charge any hidden fees or
@@ -1552,7 +1035,9 @@
 
                             <div class="f-item newsletter">
                                 <p>
-                                    Your all-in-one online platform for binary and Forex trading. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits.
+                                    Your all-in-one online platform for binary and Forex trading. With our user
+                                    interface and wide range of tools you'll have all the support to make informed
+                                    decisions and maximize your profits.
                                 </p>
                             </div>
                             <div class="footer-social mt-20">
@@ -1561,12 +1046,13 @@
                                     <li><a href="#"><i class="fab fa-twitch"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                     <li><a href="#"><i class="fab fa-discord"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li> 
+                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                 </ul>
                             </div>
                             <div class="copyright-text mt-40">
                                 <h2 class="text-black footer-powered">Powered By</h2>
-                                <img src="assets/img/icon/tradingview black logo.png" alt="tradingview" style="height: 45px;">
+                                <img src="assets/img/icon/tradingview black logo.png" alt="tradingview"
+                                    style="height: 45px;">
                             </div>
                             <div class="copyright-text mt-40">
                                 <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">validthemes</a></p>
@@ -1578,54 +1064,25 @@
                     <!-- Singel Item -->
                     <div class="col-lg-2 col-md-6 footer-item">
                         <div class="f-item link">
-                            <h4 class="widget-title">Company</h4>
                             <ul>
-                                <li>
-                                    <a href="about-us.html">Compnay Profile</a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">About</a>
-                                </li>
-                                <li>
-                                    <a href="faq.html">Help Center</a>
-                                </li>
-                                <li>
-                                    <a href="contact-us.html">Career</a>
-                                </li>
-                                <li>
-                                    <a href="pricing.html">Plans & Pricing</a>
-                                </li>
-                                <li>
-                                    <a href="contact-us.html">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Singel Item -->
-
-                    <!-- Singel Item -->
-                    <div class="col-lg-2 col-md-6 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Community</h4>
-                            <ul>
-                                <li>
-                                    <a href="contact-us.html">Career</a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">Leadership</a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">Strategy</a>
-                                </li>
-                                <li>
-                                    <a href="services-details.html">Services</a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">History</a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">Components</a>
-                                </li>
+                                <h4>
+                                    <a href="#">Home</a>
+                                </h4>
+                                <h4>
+                                    <a href="#feature">Features</a>
+                                </h4>
+                                <h4>
+                                    <a href="#benefits">Benefits</a>
+                                </h4>
+                                <h4>
+                                    <a href="#account">Account Types</a>
+                                </h4>
+                                <h4>
+                                    <a href="#partner">Become a partner</a>
+                                </h4>
+                                <h4>
+                                    <a href="#faq">FAQ</a>
+                                </h4>
                             </ul>
                         </div>
                     </div>
