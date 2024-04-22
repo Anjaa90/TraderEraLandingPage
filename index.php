@@ -63,7 +63,7 @@
                     <span data-text-preloader="O" class="letters-loading">
                         O
                     </span>
-                    <span data-text-preloader="N" class="letters-loading">
+                    <span data-text-preloader="N" class="letters-loading">.
                         N
                     </span>
                 </div>
