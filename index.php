@@ -227,7 +227,7 @@
                                 It's more than simply trading; it's about starting a journey toward financial
                                 independence, and we're here to help you every step of the way.
                             </p>
-                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
+                            <!-- <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                 TradersEra enables users in various locales to explore financial markets comfortably.
                                 Our dedication to accessibility and support guarantees that traders in every city, from
                                 New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
@@ -237,7 +237,7 @@
                             <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                 Join TradersEra now and see why we're the preferred option for traders looking for the
                                 best trading experience.
-                            </p>
+                            </p> -->
 
 
                         </div>
@@ -245,7 +245,7 @@
                             <div class="thumb">
                                 <img class="wow fadeInDown" src="assets/img/dashboard/2.png" alt="Thumb">
                                 <div class="banner-app-features">
-                                    <ul>
+                                    <!-- <ul>
                                         <li>
                                             <div class="icon">
                                                 <i class="fas fa-video"></i>
@@ -273,7 +273,7 @@
                                                 <h4>Dynamic Functionality</h4>
                                             </div>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                             </div>
                         </div>
@@ -285,6 +285,68 @@
     </div>
     <!-- End Banner -->
 
+
+    <div id="overview" class="soft-info-area default-padding bg-gray"
+    style="background-image: url(assets/img/shape/23.png);">
+    <div class="container">
+        <div class="row align-center">
+
+            <div class="col-lg-5 soft-info-style-one">
+                <div class="soft-info-list">
+                    <!-- <h3>Become a Partner</h3>
+                    <p>
+                        TradersEra enables users in various locales to explore financial markets comfortably.
+                        Our dedication to accessibility and support guarantees that traders in every city, from
+                        New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
+                        success and wealth in the unpredictable world of trading.
+                    </p> -->
+                </div>
+                <div class="soft-info-list mt-30">
+                    <!-- <h4>For Your Clients</h4> -->
+                    <ul>
+                        <li>
+                            TradersEra enables users in various locales to explore financial markets comfortably.
+                            Our dedication to accessibility and support guarantees that traders in every city, from
+                            New York to Tokyo to Dubai, receive 24-hour help and specialized resources, enabling
+                            success and wealth in the unpredictable world of trading.
+                        </li>
+                       
+                    </ul>
+                    <br>
+                    <!-- <h4>For Introducing Brokers</h4> -->
+                    <ul>
+                        <li>
+                            Join TradersEra now and see why we're the preferred option for traders looking for the
+                                best trading experience.
+                        </li>
+                   
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-6 offset-lg-1">
+                <div class="soft-info-thumb">
+                    <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
+                    <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
+                        <span>Go Unlmited</span>
+                        <h5>Unlock all features to improve your performance</h5>
+                        <ul class="user-lists">
+                            <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
+                            <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
+                            <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
+                            <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
+                            <li><i class="fas fa-plus"></i></li>
+                        </ul>
+                        <p>(200k Active user)</p>
+                        <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
+                            Plan</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
 
 
     <!-- Start Choose Us 
@@ -797,7 +859,7 @@
 
     <!-- Start Process 
     ============================================= -->
-    <div id="process" class="process-style-onea-rea default-padding-bottom pt-md-120 pt-xs-50"
+    <!-- <div id="process" class="process-style-onea-rea default-padding-bottom pt-md-120 pt-xs-50"
         style="background-image: url(assets/img/shape/25.png);">
         <div class="container">
             <div class="row">
@@ -815,7 +877,7 @@
                     <div class="col-lg-8 offset-lg-2">
                         <div class="row">
 
-                            <!-- Single Item -->
+                         
                             <div class="col-lg-6 col-md-6">
                                 <div class="process-style-one">
                                     <div class="inner-info">
@@ -824,8 +886,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
+                            
                             <div class="col-lg-6 col-md-6">
                                 <div class="process-style-one">
                                     <div class="inner-info">
@@ -834,12 +895,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Single Item -->
+               
                             <div class="shape-center">
                                 <img src="assets/img/shape/24.png" alt="Shape">
                             </div>
 
-                            <!-- Single Item -->
+                          
                             <div class="col-lg-6 offset-lg-3">
                                 <div class="process-style-one">
                                     <div class="inner-info">
@@ -848,7 +909,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Single Item -->
+                           
 
                         </div>
                     </div>
@@ -873,12 +934,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Process -->
 
     <!-- Start Feature 
     ============================================= -->
-    <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
+    <!-- <div id="services" class="feature-style-two-area shadow pt-120 pt-xs-50 pb-70 pb-md-90 pb-xs-20 bg-gray"
         style="background-image: url(assets/img/shape/26.png);">
         <div class="shape-right-top">
             <img src="assets/img/shape/27.png" alt="Shape">
@@ -895,7 +956,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <!-- Single Itme -->
+             
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
@@ -919,8 +980,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Itme -->
-                <!-- Single Itme -->
+               
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
@@ -944,8 +1004,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Itme -->
-                <!-- Single Itme -->
+               
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
@@ -969,8 +1028,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Itme -->
-                <!-- Single Itme -->
+                
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
@@ -994,15 +1052,15 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Itme -->
+               
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Feature -->
 
     <!-- Start Choose Us 
     ============================================= -->
-    <div class="choose-us-area default-padding overflow-hidden">
+    <!-- <div class="choose-us-area default-padding overflow-hidden">
         <div class="container">
             <div class="row align-center">
                 <div class="col-lg-6 choose-us-style-one">
@@ -1049,12 +1107,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Choose Us -->
 
     <!-- Start Free Trial 
     ============================================= -->
-    <div class="free-trial-area overflow-hidden default-padding-bottom"
+    <!-- <div class="free-trial-area overflow-hidden default-padding-bottom"
         style="background-image: url(assets/img/shape/31.png);">
         <div class="container">
             <div class="row align-center">
@@ -1127,12 +1185,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Free Trial -->
 
     <!-- Start Pricing 
     ============================================= -->
-    <div id="pricing" class="pricing-style-two-area shadow top-shape-gray default-padding">
+    <!-- <div id="pricing" class="pricing-style-two-area shadow top-shape-gray default-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -1146,7 +1204,7 @@
         <div class="container">
             <div class="pricing-style-two-items mt-25">
                 <div class="row">
-                    <!-- Single Itme -->
+                 
                     <div class="col-lg-4 col-md-6 pricing-style-two">
                         <div class="item">
                             <div class="pricing-header">
@@ -1169,9 +1227,9 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Itme -->
+                  
 
-                    <!-- Single Itme -->
+                 
                     <div class="col-lg-4 col-md-6 pricing-style-two active">
                         <div class="item">
                             <div class="pricing-header">
@@ -1194,9 +1252,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Itme -->
-
-                    <!-- Single Itme -->
+                    
                     <div class="col-lg-4 col-md-6 pricing-style-two">
                         <div class="item">
                             <div class="pricing-header">
@@ -1219,12 +1275,11 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Itme -->
-
+                  
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Pricing -->
 
     <!-- Start Faq 
@@ -1314,17 +1369,17 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
                                         Can I trade on TradersEra from my mobile phone?
 
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseFour" class="accordion-collapse collapse"
+                                    aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             Yes, you can! We offer a user-friendly mobile trading app that allows you to
@@ -1335,17 +1390,17 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
                                         What kind of support does TradersEra offer?
 
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseFive" class="accordion-collapse collapse"
+                                    aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             We provide 24/7 customer support to assist you with any questions or issues
@@ -1358,17 +1413,17 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingSix">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
                                         How does artificial intelligence (AI) factor into forex trading on TradersEra?
 
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseSix" class="accordion-collapse collapse"
+                                    aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             At TradersEra, we harness the power of AI to provide lightning-fast trade
@@ -1383,17 +1438,17 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingSeven">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseSeven" aria-expanded="false"
+                                        aria-controls="collapseSeven">
 
                                         What are Binary Options, and how can I trade them on TradersEra?
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseSeven" class="accordion-collapse collapse"
+                                    aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             Binary Options are financial instruments that allow traders to speculate on
@@ -1410,18 +1465,18 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingEight">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseEight" aria-expanded="false"
+                                        aria-controls="collapseEight">
 
                                         How does the deposit process work on TradersEra, especially for local deposits?
 
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseEight" class="accordion-collapse collapse"
+                                    aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             Depositing funds into your TradersEra account is quick and easy. We offer a
@@ -1440,17 +1495,17 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingNine">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseNine" aria-expanded="false"
+                                        aria-controls="collapseNine">
 
                                         Can I practice trading before risking real money?
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseNine" class="accordion-collapse collapse"
+                                    aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             Absolutely. We offer a demo account option that allows you to practice
@@ -1463,17 +1518,17 @@
 
 
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
+                                <h2 class="accordion-header" id="headingTen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
+                                        data-bs-target="#collapseTen" aria-expanded="false"
+                                        aria-controls="collapseTen">
 
                                         Are there any hidden fees or commissions?
 
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseTen" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
                                             No, we believe in transparency. We don't charge any hidden fees or
@@ -1497,7 +1552,7 @@
 
     <!-- Start Software Info 
     ============================================= -->
-    <div id="overview" class="soft-info-area default-padding bg-gray"
+    <!-- <div id="overview" class="soft-info-area default-padding bg-gray"
         style="background-image: url(assets/img/shape/23.png);">
         <div class="container">
             <div class="row align-center">
@@ -1549,12 +1604,12 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Software Info -->
 
     <!-- Start Blog 
     ============================================= -->
-    <div id="blog" class="blog-area secondary home-blog default-padding bottom-less">
+    <!-- <div id="blog" class="blog-area secondary home-blog default-padding bottom-less">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -1567,7 +1622,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <!-- Single Item -->
+                
                 <div class="col-lg-4 mb-30">
                     <div class="blog-style-one">
                         <div class="thumb">
@@ -1593,8 +1648,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Item -->
-                <!-- Single Item -->
+              
                 <div class="col-lg-4 mb-30">
                     <div class="blog-style-one">
                         <div class="thumb">
@@ -1620,8 +1674,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Item -->
-                <!-- Single Item -->
+             
                 <div class="col-lg-4 mb-30">
                     <div class="blog-style-one">
                         <div class="thumb">
@@ -1647,10 +1700,10 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Item -->
+              
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Blog -->
 
     <!-- Start Footer 
