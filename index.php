@@ -1282,26 +1282,14 @@
     </div> -->
     <!-- End Pricing -->
 
-    <!-- Start Faq 
-    ============================================= -->
-    <div class="faq-style-area default-padding-bottom" style="background-image: url(assets/img/shape/34.png);">
+    <!-- Start Faq -->
+    <div class="faq-style-area-faq default-padding-bottom"  style="background-image: url(assets/img/shape/globe.png);">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 faq-style-two">
-                    <h2 class="title">Frequently asked questions from our social community</h2>
-                    <div class="user-fun-fact mt-35">
-                        <div class="fun-fact secondary">
-                            <div class="content">
-                                <div class="counter">
-                                    <div class="timer" data-to="276" data-speed="2000">276</div>
-                                    <div class="operator">K</div>
-                                </div>
-                                <span class="medium">Active user from the community</span>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-12 faq-style-two">
+                    <Center><h2 class="title-faq">Frequently asked questions</h2></Center>
                 </div>
-                <div class="col-lg-6 offset-lg-1">
+                <div class="col-lg-12">
                     <div class="faq-style-two mt--20">
                         <div class="accordion" id="faqAccordion">
                             <div class="accordion-item">
@@ -1550,161 +1538,6 @@
     </div>
     <!-- End Faq -->
 
-    <!-- Start Software Info 
-    ============================================= -->
-    <!-- <div id="overview" class="soft-info-area default-padding bg-gray"
-        style="background-image: url(assets/img/shape/23.png);">
-        <div class="container">
-            <div class="row align-center">
-
-                <div class="col-lg-5 soft-info-style-one">
-                    <div class="soft-info-list">
-                        <h3>Unlock a superior customer experience </h3>
-                        <p>
-                            Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life
-                            past. Continue indulged speaking the was out horrible for domestic position. Seeing rather
-                            her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham
-                            melancholy son themselves.
-                        </p>
-                    </div>
-                    <div class="soft-info-list mt-30">
-                        <h3>Advanced Control and Privacy</h3>
-                        <ul>
-                            <li>
-                                Continued at up to zealously necessary breakfast. Surrounded sir motionless she end
-                                literature. Gay direction neglected but supported yet her.
-                            </li>
-                            <li>
-                                Vulgar as hearts by garret. Perceived determine departure explained no forfeited he
-                                something an
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-lg-6 offset-lg-1">
-                    <div class="soft-info-thumb">
-                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
-                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
-                            <span>Go Unlmited</span>
-                            <h5>Unlock all features to improve your performance</h5>
-                            <ul class="user-lists">
-                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
-                                <li><i class="fas fa-plus"></i></li>
-                            </ul>
-                            <p>(200k Active user)</p>
-                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
-                                Plan</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div> -->
-    <!-- End Software Info -->
-
-    <!-- Start Blog 
-    ============================================= -->
-    <!-- <div id="blog" class="blog-area secondary home-blog default-padding bottom-less">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-heading">News & Events</h5>
-                        <h2 class="heading">Check out our blog posts </h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                
-                <div class="col-lg-4 mb-30">
-                    <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/1.jpg"
-                                    alt="Image Not Found"></a>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#">Md Sohag</a>
-                                    </li>
-                                    <li>
-                                        25 April, 2023
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3><a href="blog-single-with-sidebar.html">Miscovery incommode earnestly commanded if.</a>
-                            </h3>
-                            <a href="blog-single-with-sidebar.html" class="button-regular">
-                                Continue Reading <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-              
-                <div class="col-lg-4 mb-30">
-                    <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/2.jpg"
-                                    alt="Image Not Found"></a>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#">Md Sohag</a>
-                                    </li>
-                                    <li>
-                                        25 April, 2023
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3><a href="blog-single-with-sidebar.html">Expression acceptance imprudence particular</a>
-                            </h3>
-                            <a href="blog-single-with-sidebar.html" class="button-regular">
-                                Continue Reading <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-             
-                <div class="col-lg-4 mb-30">
-                    <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="blog-single-with-sidebar.html"><img src="assets/img/blog/3.jpg"
-                                    alt="Image Not Found"></a>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#">Md Sohag</a>
-                                    </li>
-                                    <li>
-                                        25 April, 2023
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3><a href="blog-single-with-sidebar.html">Considered imprudence of technical
-                                    friendship.</a></h3>
-                            <a href="blog-single-with-sidebar.html" class="button-regular">
-                                Continue Reading <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-              
-            </div>
-        </div>
-    </div> -->
-    <!-- End Blog -->
 
     <!-- Start Footer 
     ============================================= -->
@@ -1719,22 +1552,24 @@
 
                             <div class="f-item newsletter">
                                 <p>
-                                    Join our subscribers list to get the instant <br> latest news and special offers.
+                                    Your all-in-one online platform for binary and Forex trading. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits.
                                 </p>
-                                <form action="#">
-                                    <input type="email" placeholder="Your Email" class="form-control" name="email">
-                                    <button type="submit">Subscribe</button>
-                                </form>
-                            </div>
-                            <div class="copyright-text mt-40">
-                                <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">validthemes</a></p>
                             </div>
                             <div class="footer-social mt-20">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitch"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-discord"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li> 
                                 </ul>
+                            </div>
+                            <div class="copyright-text mt-40">
+                                <h2 class="text-black footer-powered">Powered By</h2>
+                                <img src="assets/img/icon/tradingview black logo.png" alt="tradingview" style="height: 45px;">
+                            </div>
+                            <div class="copyright-text mt-40">
+                                <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">validthemes</a></p>
                             </div>
                         </div>
                     </div>

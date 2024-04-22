@@ -13719,3 +13719,20 @@ ul.multi-button li:last-child a {
     margin-left: 5px;
     padding: 3px 7px;
 }
+.title-faq{
+	padding-top: 60px;
+	padding-bottom: 60px;
+	font-weight: 600;
+	font-size: 42px;
+}
+
+.faq-style-area-faq{
+	background-size: 30%;
+    background-repeat: no-repeat;
+}
+
+.footer-powered{
+	font-weight: 500;
+    font-size: 27px;
+    color: black;
+}
