@@ -179,7 +179,7 @@
                     <div class="row">
                         <div class="col-xl-5">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">Power Is In Your
-                                Hands As You Dive In The Exciting World Of Trading In<strong>(Country Name).</strong>
+                                Hands As You Dive In The Exciting World Of Trading In <strong>India.</strong>
                             </h2>
                         </div>
                         <div class="col-xl-6 offset-xl-1">
@@ -242,22 +242,10 @@
                 </div>
 
                 <div class="col-lg-6 offset-lg-1">
-                    <div class="soft-info-thumb">
-                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
-                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
-                            <span>Go Unlmited</span>
-                            <h5>Unlock all features to improve your performance</h5>
-                            <ul class="user-lists">
-                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
-                                <li><i class="fas fa-plus"></i></li>
-                            </ul>
-                            <p>(200k Active user)</p>
-                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
-                                Plan</a>
-                        </div>
+                   
+                        <img class="wow fadeInUp" src="assets/img/landing  home image  2.png" alt="Dashboard">
+                            
+                      
                     </div>
                 </div>
 
@@ -271,28 +259,15 @@
     <div id="feature" class="choose-us-area default-padding overflow-hidden">
         <div class="container">
             <div class="row align-center">
-                <div class="col-lg-6 choose-us-style-one">
-                    <div class="choose-us-thumb">
-                        <img class="wow fadeInDown" src="assets/img/illustration/il-1.png" alt="illustration">
-                        <img class="wow fadeInRight" data-wow-delay="300ms" src="assets/img/illustration/d8.png"
-                            alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d7.png"
-                            alt="illustration">
-                        <img class="wow fadeInLeft" data-wow-delay="300ms" src="assets/img/illustration/d4.png"
-                            alt="illustration">
-                        <img class="wow fadeInLeft" data-wow-delay="900ms" src="assets/img/illustration/d5.png"
-                            alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="300ms" src="assets/img/illustration/d9.png"
-                            alt="illustration">
-                        <img class="wow fadeInDown" data-wow-delay="1200ms" src="assets/img/illustration/d2.png"
-                            alt="illustration">
-                        <img class="wow fadeInUp" data-wow-delay="900ms" src="assets/img/illustration/d11.png"
-                            alt="illustration">
-                    </div>
+                <div class="col-lg-5 choose-us-style-one">
+                    
+                        <img style="height:400px; width:600px;" class="wow fadeInDown" src="assets/img/landing  features  image.png" alt="illustration">
+                       
+                  
                 </div>
-                <div class="col-lg-5 offset-lg-1 choose-us-style-one">
+                <div class="col-lg-6 offset-lg-1 choose-us-style-one">
                     <h2 class="title">Trading With Different Options Is Not That Difficult</h2>
-                    <h5><b>Forex Trading Features</b></h5>
+                    <h3><b>Forex Trading Features</b></h3>
                     <ul class="list-double mt-50 mt-xs-30 mt-md-30">
                         <li>
                             <div class="content">
@@ -436,9 +411,10 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
-                            <img src="assets/img/icon/5.png" alt="Icon">
+                            <img src="assets/img/icon/option.png" alt="option">
                             <a href="services-details.html" class="btn-arrow">
                                 <i class="fas fa-long-arrow-up"></i>
+                              
                             </a>
                         </div>
                         <div class="content">
@@ -450,11 +426,7 @@
 
 
                             </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Capture everything</li>
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                            </ul>
+                         
                         </div>
                     </div>
                 </div>
@@ -463,7 +435,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
-                            <img src="assets/img/icon/6.png" alt="Icon">
+                            <img src="assets/img/icon/5.png" alt="Icon">
                             <a href="services-details.html" class="btn-arrow">
                                 <i class="fas fa-long-arrow-up"></i>
                             </a>
@@ -476,11 +448,7 @@
                                 rapidly learn the platform and execute transactions swiftly.
 
                             </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                                <li>Break big work into smaller tasks</li>
-                            </ul>
+                           
                         </div>
                     </div>
                 </div>
@@ -503,11 +471,7 @@
                                 features.
 
                             </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Capture everything</li>
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                            </ul>
+                          <br>
                         </div>
                     </div>
                 </div>
@@ -516,7 +480,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="feature-style-two">
                         <div class="icon">
-                            <img src="assets/img/icon/8.png" alt="Icon">
+                            <img src="assets/img/icon/education.png" alt="Icon">
                             <a href="services-details.html" class="btn-arrow">
                                 <i class="fas fa-long-arrow-up"></i>
                             </a>
@@ -529,11 +493,7 @@
                                 professionals and peers, thereby improving their trading knowledge and abilities.
 
                             </p>
-                            <ul class="list-circle secondary mt-20">
-                                <li>Organize your to-do list by workflow</li>
-                                <li>Always include a deadline</li>
-                                <li>Break big work into smaller tasks</li>
-                            </ul>
+                           
                         </div>
                     </div>
                 </div>
@@ -591,23 +551,8 @@
                 </div>
 
                 <div class="col-lg-6 offset-lg-1">
-                    <div class="soft-info-thumb">
-                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
-                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
-                            <span>Go Unlmited</span>
-                            <h5>Unlock all features to improve your performance</h5>
-                            <ul class="user-lists">
-                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
-                                <li><i class="fas fa-plus"></i></li>
-                            </ul>
-                            <p>(200k Active user)</p>
-                            <a class="btn circle mt-25 btn-sm btn-theme secondary animation" href="pricing.html">Premium
-                                Plan</a>
-                        </div>
-                    </div>
+                 
+                        <img class="wow fadeInUp" src="assets/img/landing  Benefits image.png" alt="Dashboard">
                 </div>
 
             </div>
@@ -632,7 +577,7 @@
                         <div class="services-style-two col-lg-3 col-md-6 mb-30">
                             <div class="item">
                                 <div class="icon">
-                                    <img src="assets/img/icon/appoinment.png" alt="Icon">
+                                    <img src="assets/img/icon/registered.png" alt="Icon">
                                 </div>
                                 <h3><a href="services-details.html">Register</a></h3>
                                 <div class="bottom">
@@ -649,7 +594,7 @@
                         <div class="services-style-two col-lg-3 col-md-6 mb-30">
                             <div class="item">
                                 <div class="icon">
-                                    <img src="assets/img/icon/team.png" alt="Icon">
+                                    <img src="assets/img/icon/checked.png" alt="Icon">
                                 </div>
                                 <h3><a href="services-details.html">Verify</a></h3>
                                 <div class="bottom">
@@ -664,7 +609,7 @@
                         <div class="services-style-two col-xl-3 col-lg-6 col-md-6 mb-30">
                             <div class="item">
                                 <div class="icon">
-                                    <img src="assets/img/icon/users.png" alt="Icon">
+                                    <img src="assets/img/icon/fund (1).png" alt="Icon">
                                 </div>
                                 <h3><a href="services-details.html">Fund</a></h3>
                                 <div class="bottom">
@@ -679,7 +624,7 @@
                         <div class="services-style-two col-xl-3 col-lg-6 col-md-6 mb-30">
                             <div class="item">
                                 <div class="icon">
-                                    <img src="assets/img/icon/creativity.png" alt="Icon">
+                                    <img src="assets/img/icon/increase.png" alt="Icon">
                                 </div>
                                 <h3><a href="services-details.html">Trade</a></h3>
                                 <div class="bottom">
@@ -742,21 +687,10 @@
                 </div>
 
                 <div class="col-lg-6 offset-lg-1">
-                    <div class="soft-info-thumb">
-                        <img class="wow fadeInUp" src="assets/img/dashboard/6.png" alt="Dashboard">
-                        <div class="go-premium wow fadeInRight" data-wow-delay="500ms">
-                            <span>Go Unlmited</span>
-                            <h5>Unlock all features to improve your performance</h5>
-                            <ul class="user-lists">
-                                <li><img src="assets/img/team/9.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/10.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/11.jpg" alt="Image Not Found"></li>
-                                <li><img src="assets/img/team/v5.jpg" alt="Image Not Found"></li>
-                                <li><i class="fas fa-plus"></i></li>
-                            </ul>
-                            <p>(200k Active user)</p>
-                        </div>
-                    </div>
+                   
+                        <img class="wow fadeInUp" src="assets/img/landing  Become a Partner image.png" alt="Dashboard">
+                       
+                    
                 </div>
 
             </div>
