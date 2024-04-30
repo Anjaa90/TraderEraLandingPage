@@ -514,7 +514,7 @@
 
                 <div class="col-lg-5 soft-info-style-one">
                     <div class="soft-info-list">
-                        <h3 class="title">Our Trading Accounts for Your Perfect Fit</h3>
+                        <h2 class="title">Our Trading Accounts for Your Perfect Fit</h2>
                     </div>
                     <div class="soft-info-list mt-30">
                         <ul>
